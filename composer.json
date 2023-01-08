@@ -1,0 +1,18 @@
+{
+    "name": "wern/php-design-patterns",
+    "authors": [
+        {
+            "name": "anchetaWern",
+            "email": "ancheta.wern@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DecoratorPattern\\App\\": "decoratorpattern/app/"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
