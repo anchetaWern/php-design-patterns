@@ -6,10 +6,10 @@
             "email": "ancheta.wern@gmail.com"
         }
     ],
-    "require": {},
     "autoload": {
         "psr-4": {
-            "DecoratorPattern\\App\\": "decoratorpattern/app/"
+            "DecoratorPattern\\App\\": "decoratorpattern/app/",
+            "FacadePattern\\App\\": "facadepattern/app/"
         }
     },
     "require-dev": {
