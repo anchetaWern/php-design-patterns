@@ -10,7 +10,8 @@
         "psr-4": {
             "DecoratorPattern\\App\\": "decoratorpattern/app/",
             "FacadePattern\\App\\": "facadepattern/app/",
-            "AdapterPattern\\App\\": "adapterpattern/app/"
+            "AdapterPattern\\App\\": "adapterpattern/app/",
+            "StrategyPattern\\App\\": "strategypattern/app/"
         }
     },
     "require-dev": {
