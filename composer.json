@@ -11,7 +11,8 @@
             "DecoratorPattern\\App\\": "decoratorpattern/app/",
             "FacadePattern\\App\\": "facadepattern/app/",
             "AdapterPattern\\App\\": "adapterpattern/app/",
-            "StrategyPattern\\App\\": "strategypattern/app/"
+            "StrategyPattern\\App\\": "strategypattern/app/",
+            "TemplateMethodPattern\\App\\": "templatemethodpattern/app"
         }
     },
     "require-dev": {
