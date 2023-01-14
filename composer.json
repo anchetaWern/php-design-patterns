@@ -9,7 +9,8 @@
     "autoload": {
         "psr-4": {
             "DecoratorPattern\\App\\": "decoratorpattern/app/",
-            "FacadePattern\\App\\": "facadepattern/app/"
+            "FacadePattern\\App\\": "facadepattern/app/",
+            "AdapterPattern\\App\\": "adapterpattern/app/"
         }
     },
     "require-dev": {
