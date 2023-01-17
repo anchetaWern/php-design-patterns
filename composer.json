@@ -12,7 +12,8 @@
             "FacadePattern\\App\\": "facadepattern/app/",
             "AdapterPattern\\App\\": "adapterpattern/app/",
             "StrategyPattern\\App\\": "strategypattern/app/",
-            "TemplateMethodPattern\\App\\": "templatemethodpattern/app"
+            "TemplateMethodPattern\\App\\": "templatemethodpattern/app",
+            "ChainOfResponsibilityPattern\\App\\": "chainofresponsibilitypattern/app"
         }
     },
     "require-dev": {
