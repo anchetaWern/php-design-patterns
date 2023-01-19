@@ -13,7 +13,8 @@
             "AdapterPattern\\App\\": "adapterpattern/app/",
             "StrategyPattern\\App\\": "strategypattern/app/",
             "TemplateMethodPattern\\App\\": "templatemethodpattern/app",
-            "ChainOfResponsibilityPattern\\App\\": "chainofresponsibilitypattern/app"
+            "ChainOfResponsibilityPattern\\App\\": "chainofresponsibilitypattern/app",
+            "SpecificationPattern\\App\\": "specificationpattern/app"
         }
     },
     "require-dev": {
