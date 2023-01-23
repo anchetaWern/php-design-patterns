@@ -14,7 +14,8 @@
             "StrategyPattern\\App\\": "strategypattern/app/",
             "TemplateMethodPattern\\App\\": "templatemethodpattern/app",
             "ChainOfResponsibilityPattern\\App\\": "chainofresponsibilitypattern/app",
-            "SpecificationPattern\\App\\": "specificationpattern/app"
+            "SpecificationPattern\\App\\": "specificationpattern/app",
+            "ObserverPattern\\App\\": "observerpattern/app"
         }
     },
     "require-dev": {
