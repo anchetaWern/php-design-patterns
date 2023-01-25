@@ -16,7 +16,8 @@
             "ChainOfResponsibilityPattern\\App\\": "chainofresponsibilitypattern/app",
             "SpecificationPattern\\App\\": "specificationpattern/app",
             "ObserverPattern\\App\\": "observerpattern/app",
-            "FactoryPattern\\App\\": "factorypattern/app"
+            "FactoryPattern\\App\\": "factorypattern/app",
+            "NullObjectPattern\\App\\": "nullobjectpattern/app"
         }
     },
     "require-dev": {
