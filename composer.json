@@ -15,7 +15,8 @@
             "TemplateMethodPattern\\App\\": "templatemethodpattern/app",
             "ChainOfResponsibilityPattern\\App\\": "chainofresponsibilitypattern/app",
             "SpecificationPattern\\App\\": "specificationpattern/app",
-            "ObserverPattern\\App\\": "observerpattern/app"
+            "ObserverPattern\\App\\": "observerpattern/app",
+            "FactoryPattern\\App\\": "factorypattern/app"
         }
     },
     "require-dev": {
