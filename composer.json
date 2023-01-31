@@ -17,7 +17,9 @@
             "SpecificationPattern\\App\\": "specificationpattern/app",
             "ObserverPattern\\App\\": "observerpattern/app",
             "FactoryPattern\\App\\": "factorypattern/app",
-            "NullObjectPattern\\App\\": "nullobjectpattern/app"
+            "NullObjectPattern\\App\\": "nullobjectpattern/app",
+            "CompositePattern\\App\\": "compositepattern/app"
+            
         }
     },
     "require-dev": {
