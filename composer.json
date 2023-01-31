@@ -18,7 +18,8 @@
             "ObserverPattern\\App\\": "observerpattern/app",
             "FactoryPattern\\App\\": "factorypattern/app",
             "NullObjectPattern\\App\\": "nullobjectpattern/app",
-            "CompositePattern\\App\\": "compositepattern/app"
+            "CompositePattern\\App\\": "compositepattern/app",
+            "BridgePattern\\App\\": "bridgepattern/app"
             
         }
     },
