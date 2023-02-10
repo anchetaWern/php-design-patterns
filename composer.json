@@ -20,8 +20,8 @@
             "NullObjectPattern\\App\\": "nullobjectpattern/app",
             "CompositePattern\\App\\": "compositepattern/app",
             "BridgePattern\\App\\": "bridgepattern/app",
-            "SingletonPattern\\App\\": "singletonpattern/app"
-            
+            "SingletonPattern\\App\\": "singletonpattern/app",
+            "CommandPattern\\App\\": "commandpattern/app"
         }
     },
     "require-dev": {
