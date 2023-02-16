@@ -21,7 +21,8 @@
             "CompositePattern\\App\\": "compositepattern/app",
             "BridgePattern\\App\\": "bridgepattern/app",
             "SingletonPattern\\App\\": "singletonpattern/app",
-            "CommandPattern\\App\\": "commandpattern/app"
+            "CommandPattern\\App\\": "commandpattern/app",
+            "BuilderPattern\\App\\": "builderpattern/app"
         }
     },
     "require-dev": {
