@@ -23,7 +23,8 @@
             "SingletonPattern\\App\\": "singletonpattern/app",
             "CommandPattern\\App\\": "commandpattern/app",
             "BuilderPattern\\App\\": "builderpattern/app",
-            "PrototypePattern\\App\\": "prototypepattern/app"
+            "PrototypePattern\\App\\": "prototypepattern/app",
+            "VisitorPattern\\App\\": "visitorpattern/app"
         }
     },
     "require-dev": {
