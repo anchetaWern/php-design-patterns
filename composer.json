@@ -24,7 +24,8 @@
             "CommandPattern\\App\\": "commandpattern/app",
             "BuilderPattern\\App\\": "builderpattern/app",
             "PrototypePattern\\App\\": "prototypepattern/app",
-            "VisitorPattern\\App\\": "visitorpattern/app"
+            "VisitorPattern\\App\\": "visitorpattern/app",
+            "MementoPattern\\App\\": "mementopattern/app"
         }
     },
     "require-dev": {
