@@ -25,7 +25,8 @@
             "BuilderPattern\\App\\": "builderpattern/app",
             "PrototypePattern\\App\\": "prototypepattern/app",
             "VisitorPattern\\App\\": "visitorpattern/app",
-            "MementoPattern\\App\\": "mementopattern/app"
+            "MementoPattern\\App\\": "mementopattern/app",
+            "ProxyPattern\\App\\": "proxypattern/app"
         }
     },
     "require-dev": {
